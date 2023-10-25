@@ -2,13 +2,13 @@
 Simple classic book store website made with React JS
 
 ## Installation
-# Clone o repositório
+- Clone o repositório
 git clone  https://github.com/nathaliaacl/Bookstore-React.git 
 
-# Entre no diretório do projeto
+- Entre no diretório do projeto
 cd site-livros
 
-# Instale as dependências
+- Instale as dependências
 npm install
 
 ## Usage 
