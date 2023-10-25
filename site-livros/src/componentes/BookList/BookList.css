@@ -1,0 +1,9 @@
+.BookList{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+    list-style: none;
+    padding: 3em;
+    justify-content: center;
+
+}
